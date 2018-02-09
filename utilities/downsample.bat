@@ -1,0 +1,1 @@
+python downsample.py -i %1 -proportion 0.5
